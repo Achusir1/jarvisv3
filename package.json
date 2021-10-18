@@ -1,7 +1,7 @@
 {
   "name": "Jarvis",
   "version": "1.0.0",
-  "description": "AKSHAY",
+  "description": "ACHUSIR",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -56,15 +56,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparroo"
+    "url": "git+https://github.com/Achusir1"
   },
   "keywords": [
     "jarvis"
   ],
-  "author": "AKSHAY",
+  "author": "ACHUSIR",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sparroo"
+    "url": "https://github.com/Achusir1"
   },
-  "homepage": "https://github.com/sparroo"
+  "homepage": "https://github.com/Achusir1"
 }
